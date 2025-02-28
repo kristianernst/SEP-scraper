@@ -1,0 +1,10 @@
+fastapi>=0.95.1
+uvicorn>=0.22.0
+pydantic>=1.10.7
+html2text>=2020.1.16
+requests>=2.29.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.2
+supabase>=1.0.3
+python-dotenv>=1.0.0
+openai>=1.1.0 
